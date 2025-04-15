@@ -1,5 +1,5 @@
 > [!NOTE]
-> This project is built upon the foundation of the AgriSens Project, a pioneering initiative that leverages artificial intelligence to revolutionize agricultural decision-making across India.
+> This project is built upon the foundation of the [AgriSens Project](https://github.com/ravikant-diwakar/AgriSens) Project, a pioneering initiative that leverages artificial intelligence to revolutionize agricultural decision-making across India.
 
 # AI-Powered Crop Assistant System for India: District and Month-Specific Insights for Optimized Agricultural Practices
 
@@ -84,3 +84,4 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
