@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project is built upon the foundation of the AgriSens Project, a pioneering initiative that leverages artificial intelligence to revolutionize agricultural decision-making across India.
+
 # AI-Powered Crop Assistant System for India: District and Month-Specific Insights for Optimized Agricultural Practices
 
 ## Overview
